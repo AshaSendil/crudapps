@@ -1,0 +1,31 @@
+.formControl{
+  padding:2px;
+}
+.form{
+  margin: auto;
+  width: 40%;
+  height:50vh;
+  border: 3px ;
+  padding: 70px;
+  background-color: white;
+  justify-content: ce;
+  padding-bottom: 50px;
+  padding-top:50px;
+}
+.forms{
+  width:100%;
+  height:10vh;
+  background-color: green;
+}
+.formf{
+  margin-right:300px;
+}
+.input-wrapper {
+  background-color: transparent;
+  border: unset;
+  border-radius: 10px;
+  padding: 10px;
+  outline: none;
+  box-shadow: inset 3px 3px 5px rgba(0, 0, 0, 0.1),
+  inset -3px -3px 5px rgba(241, 255, 255, 0.5);
+}
